@@ -13,10 +13,12 @@ setup(
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=[
-        'requests',
+    install_requires=[        
     ],  # add any additional packages that
     # needs to be installed along with your package
     keywords=["python"],
     classifiers=[],
+    entry_points={
+        'console_scripts': ['<parse-le-beacon> = <parse-le-beacon>.console:main'],
+    }
 )
