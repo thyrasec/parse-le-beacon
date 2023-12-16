@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-VERSION = "0.1.00"
+VERSION = "0.2.01"
 DESCRIPTION = ""
 LONG_DESCRIPTION = ""
 

@@ -1,7 +1,7 @@
 import sys
 
 
-VERSION = "0.1.00"
+VERSION = "0.2.01"
 # Example
 # 1a ff 4c 00 02 15 b8 fe d8 63 9f 1c 44 7c 8f 82 df 0c 2e 06 7d ea ab 44 fc e5 c5
 
